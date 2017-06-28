@@ -29,7 +29,7 @@
         <Button
             android:id="@+id/btnDelete"
             android:layout_span="1"
-            android:text="Delete"
+            android:text="C"
             android:padding="20dp"
             />
     </TableRow>
@@ -110,7 +110,7 @@
             android:layout_span="1"
             android:text="-"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
     </TableRow>
     <TableRow>
@@ -121,7 +121,7 @@
             android:layout_span="1"
             android:text="7"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
         <Button
             android:id="@+id/btn8"
@@ -130,7 +130,7 @@
             android:layout_span="1"
             android:text="8"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
         <Button
             android:id="@+id/btn9"
@@ -139,7 +139,7 @@
             android:layout_span="1"
             android:text="9"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
         <Button
             android:id="@+id/btnMultiply"
@@ -148,7 +148,7 @@
             android:layout_span="1"
             android:text="*"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
     </TableRow>
 
@@ -160,7 +160,7 @@
             android:layout_span="1"
             android:text="0"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
         <Button
             android:id="@+id/btnDot"
@@ -178,7 +178,7 @@
             android:layout_span="1"
             android:text="="
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
         <Button
             android:id="@+id/btnDivide"
@@ -187,7 +187,7 @@
             android:layout_span="1"
             android:text="/"
             android:padding="@dimen/dimen25dp"
-            android:textSize="30sp"
+            android:textSize="@dimen/size30sp"
             />
     </TableRow>
 
