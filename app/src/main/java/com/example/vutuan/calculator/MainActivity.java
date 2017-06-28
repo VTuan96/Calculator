@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 result=edtResult.getText().toString();
                 if (result.charAt(0)=='0'){
                     result="";
-                    
+
                 }
                 result+=temp;
                 edtResult.setText(result);
